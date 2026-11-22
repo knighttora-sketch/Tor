@@ -1,0 +1,6 @@
+{
+  "name": "Joytify",
+  "description": "Pemutar musik audio-only dari platform video publik dengan impor daftar putar eksternal dan smart caching lokal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

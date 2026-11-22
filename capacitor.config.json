@@ -1,0 +1,11 @@
+{
+  "appId": "app.joytify.audio",
+  "appName": "Joytify",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
